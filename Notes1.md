@@ -26,11 +26,13 @@
 ### Oppgave A3
 
 > Være eller bli
-* a. er
-* b. er
-* c. er
-* d. blir
-* e. var
+```
+    * a. er
+    * b. er
+    * c. er
+    * d. blir
+    * e. var
+```
 
 ### Oppgave A4
 > Stedadsverb
