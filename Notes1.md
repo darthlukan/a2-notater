@@ -1,17 +1,18 @@
 # Møte 1
-
-Verb posisjon to.
-"... med en gang" == immediately.
-ganske == quite
-noun with one syllable and neutral == no ending for plural
-
+```
+    Verb posisjon to.
+    "... med en gang" == immediately.
+    ganske == quite
+    noun with one syllable and neutral == no ending for plural
+```
 
 ### Liten
-En liten kopp. Den lille koppen.
-Ei lita bok. Den lille boka.
-Et lite hus. Det lille huset.
-Små kopper. De små koppene.
-
+```
+    En liten kopp. Den lille koppen.
+    Ei lita bok. Den lille boka.
+    Et lite hus. Det lille huset.
+    Små kopper. De små koppene.
+```
 
 # Kapittel 4
 
