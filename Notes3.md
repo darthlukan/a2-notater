@@ -35,18 +35,18 @@
 ## C
 
 ### Oppgave C1
-
-1. G
-2. R
-3. R
-4. G
-5. R
-6. R
-7. G
-8. R
-9. G
-10. R
-
+```
+    1. Galt
+    2. Riktig
+    3. Riktig
+    4. Galt
+    5. Riktig
+    6. Riktig
+    7. Galt
+    8. Riktig
+    9. Galt
+    10. Riktig
+```
 
 ### Oppgave C4
 ```
