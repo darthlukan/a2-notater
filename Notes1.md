@@ -77,7 +77,7 @@ Fra nå av vil hun spise bare grønnsaker."
 
 ## B
 
-> HW: Table above Oppgave B3
+> HW: Bordet over Oppgave B3
 > Fyll inn verbene i alle formene. Bruk ordbok.
 
 ### Oppgave B4
