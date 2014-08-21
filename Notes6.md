@@ -38,3 +38,38 @@
 
 > HW
 
+
+## C
+
+
+### Oppgave C1
+
+> HW
+
+
+### Oppgave C2
+
+```
+  1. Den / Denne
+  2. Den / Denne
+  3. Den / Denne
+  4. Den
+```
+
+### Oppgave C3
+
+> HW
+
+
+### Oppgave C5
+
+1. Trondheim er en by som ligger i Sør-Trøndelag.
+2. Familien har en au-pair som heter Camilla.
+3. De spiste pannekaker som var gode.
+4. De besøkte Nidaroskomen som ligger i Trondheim.
+5. De reiste til Lofoten som har en fatastisk natur.
+
+
+### Oppgave C11
+
+> HW
