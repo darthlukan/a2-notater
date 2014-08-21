@@ -28,3 +28,13 @@
   5. Det regnet i Bergen.
 ```
 
+
+### Oppgave B3
+
+> HW
+
+
+### Oppgave B4
+
+> HW
+
