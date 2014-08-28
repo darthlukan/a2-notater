@@ -15,6 +15,19 @@
 > mellom == between
 > foran == in front of
 > bak == back / behind
+> heldigvis == fortunately
+> hybel == studio (apartment)
+> leilighet == apartment (apartment or condo in US vernacular)
+> annonsene == advertisement / advert / ad
+> å leie == rent
+> kjellerleilighet == basement/cellar apartment
+> nyoppusset == newly upgraded / newly renovated
+> strøm == electricity
+> jeg har ikke råd til ... == I cannot afford to ...
+> jeg har spart litt ... == I have saved a little ... (as in, I have a "chunk" set aside [but are trying to be modest])
+> må nok == bur
+> prisantydning == market price
+> budrunde == bidding round
 
 
 ## Kapittel 6
@@ -60,4 +73,21 @@ plakat av en fotballspiller.  På teppet er en fotball og en bil.
 4. Jeg har vondt i nakken
 5. Jeg har vondt i ryggen
 
+
+### Oppgave B9
+> HW
+
+
+## C
+> Les
+
+
+## D
+
+### Oppgave D2
+> HW
+
+
+### Oppgave D3
+> HW
 
